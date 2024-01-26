@@ -1,7 +1,7 @@
 "use strict";
 
 let number = Math.trunc(Math.random() * 20 + 1);
-let score = 200;
+let score = 250;
 let highestscore = 0;
 console.log(number);
 
